@@ -586,12 +586,12 @@
         {
             "name": "Kimentanm",
             "type": 0,
-            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/13012181672/PZ/refs/heads/main/feimao/lives/Kimentanm.txt"，
+            "url": "./lives/Kimentanm.txt"
         },
         {
             "name": "develop202",
             "type": 0,
-            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/13012181672/PZ/refs/heads/main/feimao/lives/develop202.txt",
+            "url": "./lives/develop202.txt",
             "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}"
         }
     ],
