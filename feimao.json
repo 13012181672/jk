@@ -586,7 +586,7 @@
         {
             "name": "Kimentanm",
             "type": 0,
-            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/13012181672/lives/refs/heads/main/Kimentanm.txt"，
+            "url": "./lives/Kimentanm.txt"
         },
         {
             "name": "develop202",
