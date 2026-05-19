@@ -1,11 +1,11 @@
 {
-    "spider": "https://gh-proxy.org/https://github.com/13012181672/jar/raw/refs/heads/main/feimao/spider.jar;md5;9c8e45f60d3d413d8b140ec21811deb0",
+    "spider": "https://github.com/13012181672/jar/raw/refs/heads/main/feimao/feimao.jar;md5;b81a5747f91e7169bdc7e3f68bd995e0",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
-    "logo": "http://hello.xn--z7x900a.com/fm.gif",
+    "logo": "http://feimao.pro/fm.gif",
     "sites": [
         {
             "key": "豆瓣",
-            "name": "🐼┃公众号：肥猫宝贝┃",
+            "name": "🐼┃公众号：我不是肥猫┃",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0
@@ -41,9 +41,13 @@
             "filterable": 1,
             "ext": {
                 "site_urls": [
-                    "https://shandian.blog/",
-                    "https://sd.sduc.site"
+                    "http://shandian.blog/",
+                    "http://sd.sduc.site/"
                 ],
+                "threadinfo": {
+                    "chunksize": 512,
+                    "threads": 16
+                },
                 "url_key": "FeiMaoUC"
             }
         },
@@ -268,7 +272,7 @@
             "key": "csp_AppXY",
             "name": "🎀️┃星牙┃短剧",
             "type": 3,
-            "api": "./api/XYDJ.py",
+            "api": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/py/XYDJ.py",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
@@ -278,7 +282,7 @@
             "key": "📺┃︎剧王┃短剧",
             "name": "📺┃剧王┃短剧",
             "type": 3,
-            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/13012181672/PZ/refs/heads/main/feimao/JWDJ.py",
+            "api": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/py/JWDJ.py",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
@@ -380,7 +384,7 @@
             "key": "drpy_js_310直播",
             "name": "🏀┃体育┃直播",
             "type": 3,
-            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/13012181672/PZ/refs/heads/main/feimao/drpy2.min.js",
+            "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
             "changeable": 0,
             "gridview": 3,
             "style": {
@@ -406,7 +410,7 @@
             "key": "儿童",
             "name": "📚┃儿童┃启蒙",
             "type": 3,
-            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/13012181672/PZ/refs/heads/main/feimao/drpy2.min.js",
+            "api": "https://gh-proxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
@@ -414,7 +418,7 @@
                 "type": "rect",
                 "ratio": 1.597
             },
-            "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/13012181672/PZ/refs/heads/main/feimao/%E5%85%94%E5%B0%8F%E8%B4%9D.js"
+            "ext": "https://gh-proxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js"
         },
         {
             "key": "csp_少儿",
@@ -586,13 +590,16 @@
         {
             "name": "Kimentanm",
             "type": 0,
-            "url": "./lives/Kimentanm.txt"
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/13012181672/PZ/refs/heads/main/feimao/lives/Kimentanm.txt",
+            "playerType": 2
         },
         {
             "name": "develop202",
             "type": 0,
-            "url": "./lives/develop202.txt",
-            "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}"
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/13012181672/PZ/refs/heads/main/feimao/lives/develop202.txt",
+            "playerType": 2,
+            "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
         }
     ],
     "headers": [
