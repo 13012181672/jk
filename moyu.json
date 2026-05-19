@@ -1,5 +1,5 @@
 {
-  "spider": "https://gh-proxy.org/https://github.com/13012181672/jar/raw/refs/heads/main/moyu.jar;md5;b6b346914f2a846b6e96a5cf5136841c",
+  "spider": "https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2F805831dc-99e2-486c-8bdd-8bfb21fc691b.jar;md5;b6b346914f2a846b6e96a5cf5136841c",
   "logo": "https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2Ff5309172-1af6-4c4f-a1c5-a4773a1cc718.gif",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
   "sites": [
@@ -831,9 +831,14 @@
       }
     }
   ],
-  "lives": [],
-  "parses": [],
-  "flags": [],
+  "lives": [
+    {
+        "name": "电视直播",
+        "type": 0,
+        "url": "https://gh-proxy.org/https://raw.githubusercontent.com/13012181672/PZ/refs/heads/main/feimao/lives/Kimentanm.txt",
+        "playerType": 2
+    }
+],
   "ijk": [
     {
       "group": "软解码",
