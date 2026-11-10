@@ -139,7 +139,7 @@
         "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
         "pkg": "com.juechufsh.android.xpg1",
         "host": "",
-        "site": "https://xpgandroid03-1372779881.cos.ap-beijing.myqcloud.com/app_xpg_android.txt",
+        "site": "https://gh-proxy.org/https://raw.githubusercontent.com/13012181672/jar/5e615ae5ebb155cb4df0f686c25dc8958c34e720/feimao/app_xpg_android.txt",
         "version": "1.0.0.3",
         "decrypt": "0"
       }
@@ -180,7 +180,7 @@
         "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
         "pkg": "com.dytiantang.one",
         "host": "",
-        "site": "https://dyttandroid04-1372779881.cos.ap-shanghai.myqcloud.com/app_dyttandroid.txt",
+        "site": "https://gh-proxy.org/https://raw.githubusercontent.com/13012181672/jar/5e615ae5ebb155cb4df0f686c25dc8958c34e720/feimao/app_dyttandroid.txt",
         "version": "3.0.0.7",
         "decrypt": "0"
       }
@@ -197,7 +197,7 @@
         "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
         "pkg": "com.mxj.wylcjbxyx",
         "host": "",
-        "site": "https://123-1349250429.cos.ap-shanghai.myqcloud.com/app.txt",
+        "site": "https://gh-proxy.org/https://raw.githubusercontent.com/13012181672/jar/refs/heads/main/feimao/app.txt",
         "version": "3.0.2.4",
         "decrypt": "1"
       }
@@ -587,7 +587,7 @@
     {
       "name": "Gather「果」",
       "type": 3,
-      "url": "https://down.nigx.cn/raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/13012181672/jar/5e615ae5ebb155cb4df0f686c25dc8958c34e720/feimao/iptv.m3u",
       "epg": "https://material.1989.click/epg.xml.gz",
       "ua": "okhttp/3.8.1",
       "timeout": 10,
